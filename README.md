@@ -18,7 +18,7 @@ Then add <code>:validate => true</code> to the input options in your views. That
 
 ## Judge
 
-Judge is a client-side validation gem for Rails 3. You can read more about it at [judge.joecorcoran.co.uk](http://judge.joecorcoran.co.uk).
+Judge is a client-side validation gem for Rails 4. You can read more about it at [judge.joecorcoran.co.uk](http://judge.joecorcoran.co.uk).
 
 ## License
 
