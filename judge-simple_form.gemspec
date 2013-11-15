@@ -18,7 +18,7 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency 'simple_form', '~> 3.0'
 
   s.add_development_dependency 'rake'
-  s.add_development_dependency 'rails',   '~> 3.2'
+  s.add_development_dependency 'rails',   '~> 4.0'
   s.add_development_dependency 'sqlite3', '~> 1.3.7'
   s.add_development_dependency 'rspec',   '~> 2.13'
 end
